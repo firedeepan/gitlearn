@@ -1,2 +1,3 @@
 1st commit in feature1
 1st from master
+3rd line from master
