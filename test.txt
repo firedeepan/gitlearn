@@ -1,5 +1,5 @@
 1st commit in feature1
 1st from master
 3rd line from feature2
-4th line from master
+4th line from feature 3
 5th line from master
