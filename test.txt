@@ -3,5 +3,5 @@
 3rd line from feature2
 4th line from feature 3
 5th line from master
-6th line from feature 4
+6th line from feature 5
 7th line from master
